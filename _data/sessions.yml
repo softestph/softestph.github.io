@@ -153,6 +153,12 @@
                                      Here we'll discuss what are the benefits of preventing bugs, finding bugs at early stages and the ways how a tester can do this."
   subtype: presentation
   speakers: [11]
+-
+  id: 011
+  title: "QA and Usability: Testing Beyond Functional"
+  description: "<p align=\"justify\">Software development has always centered around testing and quality. Most of the time, QA efforts are centered in Functional Testing, checking that the software meets initial requirements. However, experts in areas such as exploratory testing, performance testing, usability and user-experience testing know that we had much more work to do than just functional testing.  In this talk, I'll focus on Usability Testing and how our team manage to incorporate it with our Functional Testing to save time, effort and money in our projects."
+  subtype: presentation
+  speakers: [12]
   #language: en
   #complexity: "Intermediate"
 
