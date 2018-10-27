@@ -38,16 +38,17 @@
     - {title: "Lake Taal", color: "#90be4e"}
     - {title: "Lake Cebu", color: "#03a9f4"}
     - {title: "Lake Caliraya", color: "#e91e63"}
+    - {title: "Balesin", color: "#FFA500"}
   timeslots:
     - {
     	startTime: "10:30",
     	endTime: "11:30",
-    	sessionIds: [999,999,999]
+    	sessionIds: [004,002,999,991]
     }
     - {
     	startTime: "11:30",
     	endTime: "12:30",
-    	sessionIds: [999,999,004]
+    	sessionIds: [001,005,003,991]
     }
     - {
     	startTime: "12:30",
@@ -57,12 +58,12 @@
     - {
     	startTime: "13:30",
     	endTime: "14:30",
-    	sessionIds: [999,999,999]
+    	sessionIds: [012,007,006,008]
     }
     - {
     	startTime: "14:30",
     	endTime: "15:30",
-    	sessionIds: [999,999,999]
+    	sessionIds: [999,010,009,008]
     }
     - {
     	startTime: "15:30",
@@ -72,7 +73,7 @@
     - {
     	startTime: "16:00",
     	endTime: "17:00",
-    	sessionIds: [999]
+    	sessionIds: [013]
     }
     - {
     	startTime: "17:00",
