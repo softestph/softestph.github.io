@@ -1,4 +1,29 @@
 -
+  id: 1
+  name: "Monchito"
+  surname: "Ibrahim"
+  company: "Department of Information and Communications Technology"
+  title: "Undersecretary"
+  bio: "<p align=\"justify\">
+        <h5>
+        Undersecretary for Regional Operations and Countryside and ICT Industry Development
+        </h5>
+
+        Monchito \"Mon\" Ibrahim is currently with the Department of Information and Communications Technology (DICT) as Undersecretary. Prior to this, he became an Executive Consultant to the Secretary.  He also served as Deputy Executive Director of the Information and Communications Technology Office (ICTO) under the Department of Science and Technology (DOST-ICTO) from July 2011 to June 2016, and Commissioner of the former Commission on Information and Communications Technology (CICT) from 2007 until June 30, 2011.
+        <br><br>
+        He started his career in the IT industry in 1975 as a Systems Trainee at NCR Philippines. In the course of his extensive involvement in the industry, he has worked for multinational companies like Fujitsu, WeServ, Siemens-Nixdorf, Comparex Germany and Unisys Australia in various executive positions. He also served as President of the Philippine Computer Society in 2004-2005, and of the PCS Foundation in 2005-2006. He also served as a member of the Executive Committee of the Southeast Asia Regional Computer Confederation in 2004-2005.
+        <br><br>
+        Mr. Ibrahim served as Chair of the APEC Electronic Commerce Steering Group (ECSG) from 2011-2012 after having Chaired the Paperless Trading Subgroup of ECSG for 2 years. He also served as the ASEAN TELSOM Leader of the Philippines from 2009-11.
+        <br><br>
+        Mr. Ibrahim was given the ICT Individual Contributor Award during the 2012 International ICT Awards for his contributions to the growth of the Philippine IT-BPO Industry. He was also recently named as one of the Ten ICT Industry Movers and Shakers for the period 2002-2012 and recipient of the Boards’ Choice as Government Champion, both given by the Contact Center Association of the Philippines (CCAP).
+        <br><br>
+        Reference: http://mediafocus.com.ph
+        "
+  thumbnailUrl: monIbrahim.jpg
+  rockstar: true
+  #social:
+  #  - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
   id: 3
   name: "Hector"
   surname: "Hernandez"
@@ -144,6 +169,58 @@
   #social:
   #  - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
   #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 13
+  name: "Rabby"
+  surname: "Calicdan"
+  company: "Willis Towers Watson"
+  title: "Quality Engineer"
+  bio: "<p align=\"justify\">"
+  thumbnailUrl: rabbyCalicdan.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 14
+  name: "Kim"
+  surname: "Deloria"
+  company: "Pointwest Technologies"
+  title: "Project Manager"
+  bio: "<p align=\"justify\">
+          Kim Deloria a Project Manager in Pointwest and is part of the Testing Center of Excellence where he spearheads testing initiatives in Test Automation and Quality Engineering. He has close to two decades of experience in IT. His work has taken him to several locations in the United States and Asia where hefurther honed his craft.
+          <br><br>
+          Kim is a graduate of Ateneo de Manila and also has a degree in law from the University of the
+          Philippines Diliman. He passed the bar in 2008 and was in law practice for a time before he decided ITwas more exciting. He now lawyers only in his spare time (if he still has any).
+          <br><br>
+          He is married to Grace for nearly three years now and is a proud father to cute toddler Olive and baby Gael.
+          "
+  thumbnailUrl: kimDeloria.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 15
+  name: "Derick"
+  surname: "Mag-Isa"
+  company: "Quality Assurance Team Manager"
+  title: "Project Manager"
+  bio: "<p align=\"justify\">
+          Derick Mag-isa is a Quality Assurance Team Manager at Willis Towers Watson. He is passionate about Quality. He has worked on amazing projects across different industries. Some of these projects are banking, retail, healthcare, transportation and communication. Derick is also part of the Core group of Software Testing Philippines. He was also part of the first \"Testathon: A Hackathon for testers\" event here in the Philippines. In this event his team got an award for being one of the best testing teams.
+          "
+  thumbnailUrl: derickMagIsa.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
+  #  - {name: "site", link: "http://olostan.name/"}
+
 -
   id: 99
   name: "TBD"
