@@ -64,11 +64,11 @@
   id: 001
   title: "Effective and Efficient Load and Performance Testing"
   description: "<p align=\"justify\">To often load and performance testing for our application is put aside up till the last minute wherein issues are now harder and more expensive to fix. In this talk, I will go through the process my team implements to catch performance issues as early as possible."
-  subtype: workshop
+  subtype: presentation
   speakers: [3]
   #language: en
   #complexity: "Intermediate"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
 -
   id: 002
   title: "Automating Email Verifications and SMS Interactions"
@@ -89,7 +89,7 @@
   #language: en
   #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
 -
   id: 003
   title: "Complexity, Testing Without Testers, and the Future of Software Testing"
@@ -103,7 +103,7 @@
   #language: en
   #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
 -
   id: 004
   title: "Adversary Emulation System"
@@ -115,13 +115,14 @@
   #language: en
   #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
 -
   id: 005
   title: "Building an Effective Test Automation Framework for Modern Software Architectures"
   description: "<p align=\"justify\">As many companies continue to embrace automation, it’s easy to fall into the trap of doing automation for the sake of automating. In this topic, the speaker will talk about tools and techniques on how to build an effective test automation framework that can be used by applications built through RESTful APIs, how to integrate automated testing into DevOps, how to conduct in-sprint automation for continuous testing across the enterprise; and test automation mistakes that need to be avoided."
   subtype: presentation
   speakers: [7]
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
   #language: en
   #complexity: "Intermediate"
 -
@@ -130,6 +131,7 @@
   description: "<p align=\"justify\">The session focus is on building the abilities of business professionals to be a highly productive member of solution validation.  An examination of present shortcomings,  modification of engagement behavior and skill development will be discussed."
   subtype: presentation
   speakers: [8]
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
   #language: en
   #complexity: "Intermediate"
 -
@@ -138,6 +140,7 @@
   description: "<p align=\"justify\">Many times automation testers are taught how to code. But not how to code properly. In this talk, we will tackle software engineering principles that can be applied when developing test automation suites."
   subtype: presentation
   speakers: [9]
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
   #language: en
   #complexity: "Intermediate"
 -
@@ -148,6 +151,7 @@
                                      We will also learn about how to implement complex touch action gestures with mobile apps. And we will study about how to implement parallel and distribute tests with appium."
   subtype: workshop
   speakers: [10]
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
   #language: en
   #complexity: "Intermediate"
 -
@@ -158,18 +162,21 @@
                                      Here we'll discuss what are the benefits of preventing bugs, finding bugs at early stages and the ways how a tester can do this."
   subtype: presentation
   speakers: [11]
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
 -
   id: 010
   title: "QA and Usability: Testing Beyond Functional"
   description: "<p align=\"justify\">Software development has always centered around testing and quality. Most of the time, QA efforts are centered in Functional Testing, checking that the software meets initial requirements. However, experts in areas such as exploratory testing, performance testing, usability and user-experience testing know that we had much more work to do than just functional testing.  In this talk, I'll focus on Usability Testing and how our team manage to incorporate it with our Functional Testing to save time, effort and money in our projects."
   subtype: presentation
   speakers: [12]
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
 -
   id: 011
   title: "Testing in DevOps"
   description: "<p align=\"justify\">"
   subtype: presentation
   speakers: [13]
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
   #language: en
   #complexity: "Intermediate"
 -
@@ -180,6 +187,7 @@
                 "
   subtype: presentation
   speakers: [14]
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
 -
   id: 013
   title: "The QA Skills That We All Forgot"
@@ -188,6 +196,7 @@
                 "
   subtype: presentation
   speakers: [15]
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
 
   #language: en
   #complexity: "Intermediate"
