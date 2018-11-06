@@ -161,7 +161,9 @@ ticketsOffers:
   ticketContentList: ["Software Testing Philippines", "Volunteer-organized software testing conference", "#PHTESTCON2018"]
   validFrom: "2018-10-16T00:01"
   validThrough: "2018-11-15T23:59"
-  disabled: false
+  #disabled: false
+  soldOut: true
+  soldOutText: "Sold Out"
  -
   name: "Early Bird"
   price: "2500"
