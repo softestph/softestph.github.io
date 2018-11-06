@@ -208,12 +208,32 @@
   id: 15
   name: "Derick"
   surname: "Mag-Isa"
-  company: "Quality Assurance Team Manager"
-  title: "Project Manager"
+  company: "Willis Towers Watson"
+  title: "Quality Assurance Team Manager"
   bio: "<p align=\"justify\">
           Derick Mag-isa is a Quality Assurance Team Manager at Willis Towers Watson. He is passionate about Quality. He has worked on amazing projects across different industries. Some of these projects are banking, retail, healthcare, transportation and communication. Derick is also part of the Core group of Software Testing Philippines. He was also part of the first \"Testathon: A Hackathon for testers\" event here in the Philippines. In this event his team got an award for being one of the best testing teams.
           "
   thumbnailUrl: derickMagIsa.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 16
+  name: "Morris"
+  surname: "Balsamo"
+  company: "Willis Towers Watson"
+  title: "Team Manager"
+  bio: "<p align=\"justify\">
+          Momar is currently a Team Manager at Willis Towers Watson, actively involved not only in the team operations but also in several initiatives within their business segment.
+          <br><br>
+          He has been in the IT industry for 10 years. Starting as a .net bootcamper, he spent the earlier part of his career as a Configuration Manager and later transitioned to being a QA Analyst.
+          <br><br>
+          He is now using the lessons that he learned through various roles, projects and interactions within and outside the industry to educate, challenge and inspire people.
+          "
+  thumbnailUrl: morrisBalsamo.jpg
   rockstar: true
   #ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}

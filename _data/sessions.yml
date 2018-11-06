@@ -172,7 +172,7 @@
   video: "//www.youtube.com/embed/fLEr-PseGxg"
 -
   id: 011
-  title: "Testing in DevOps"
+  title: "Quality Evolution: The role of testing in DevOps"
   description: "<p align=\"justify\">"
   subtype: presentation
   speakers: [13]
@@ -196,6 +196,19 @@
                 "
   subtype: presentation
   speakers: [15]
+  video: "//www.youtube.com/embed/fLEr-PseGxg"
+-
+  id: 014
+  title: "Beyond the Grave"
+  description: "<p align=\"justify\">
+                The QA Role is in Peril! The continuous demand for immediately usable software has put the spotlight on new and hip things like Agile, Big Data, Machine Learning, Micro Services and Test Automation.
+                <br><br>
+                Due to the aggressively changing software development trends, Testing may be the most disrupted aspect of software development  that some even say that QE is the new sheriff in town and  QA is dead. So They Say..
+                <br><br>
+                In the second part of the \"Testing Revival\" series, We'll inspect how testers can RISE from the grave of confusion and thrive as a tester BEYOND \"Testing\".
+                "
+  subtype: presentation
+  speakers: [16]
   video: "//www.youtube.com/embed/fLEr-PseGxg"
 
   #language: en
