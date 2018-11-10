@@ -173,7 +173,11 @@
 -
   id: 011
   title: "Quality Evolution: The role of testing in DevOps"
-  description: "<p align=\"justify\">"
+  description: "<p align=\"justify\">
+                We maybe hearing the term \"DevOps\" more often now unlike before. There are mixed interpretations based on how the organizations try to fit DevOps in their process. In one Software Testing meetup, a question was asked about DevOps and their role as QA and nobody had a straight answer. This prompted me to research about DevOps what it is about and what is my role and career as a tester.
+                <br><br>
+                In this talk, we'll discuss what DevOps is and how we can start to be an advocate of collaboration and change to help our organization start the transition to a DevOps culture.
+                "
   subtype: presentation
   speakers: [13]
   video: "//www.youtube.com/embed/fLEr-PseGxg"

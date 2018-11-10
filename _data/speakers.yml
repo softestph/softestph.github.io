@@ -175,7 +175,9 @@
   surname: "Calicdan"
   company: "Willis Towers Watson"
   title: "Quality Engineer"
-  bio: "<p align=\"justify\">"
+  bio: "<p align=\"justify\">
+  Rabby is a Quality Engineer at Willis Towers Watson. He has more than a decade of experience in testing Web Applications. He loves to read articles about testing and leadership. He is also an advocate of experimenting the latest tools and testing techniques within his organization. He is the Co-Founder of Software Testing Philippines which started back in January 2014.
+  "
   thumbnailUrl: rabbyCalicdan.jpg
   rockstar: true
   #ribbon:
