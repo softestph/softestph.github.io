@@ -37,7 +37,7 @@
   title: "Introduction and STP Core Group"
   place: "Plenary Hall"
   service: true
-  description: "Karla Emaden and Rabby Calicdan"
+  description: "Karla Emaden and Michelle Lagare"
 -
   id: 506
   title: "Willis Towers Watson"
@@ -169,7 +169,7 @@
   description: "<p align=\"justify\">Software development has always centered around testing and quality. Most of the time, QA efforts are centered in Functional Testing, checking that the software meets initial requirements. However, experts in areas such as exploratory testing, performance testing, usability and user-experience testing know that we had much more work to do than just functional testing.  In this talk, I'll focus on Usability Testing and how our team manage to incorporate it with our Functional Testing to save time, effort and money in our projects."
   subtype: presentation
   speakers: [12]
-  video: "//www.youtube.com/embed/fLEr-PseGxg"
+  video: "//www.youtube.com/embed/_6uXifzeqSw"
 -
   id: 011
   title: "Quality Evolution: The role of testing in DevOps"
